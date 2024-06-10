@@ -1,0 +1,38 @@
+C:\Users\ET26\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+C:\Users\ET26\Desktop\WindowsGame3\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+F:\WindowsGame3\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+C:\Users\paulucci\Desktop\WindowsGame3\WindowsGame3\WindowsGame3Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\WindowsGame3(1)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+C:\Users\ET26\Desktop\WindowsGame3(1)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+F:\WindowsGame3(2)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+C:\Users\paulucci\Desktop\WindowsGame3(2)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ET26\Desktop\WindowsGame3(3)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+C:\Users\paulucci\Desktop\WindowsGame3(4)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\WindowsGame3(5)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ET26\Desktop\WindowsGame3(5)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+F:\WindowsGame3(6)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache

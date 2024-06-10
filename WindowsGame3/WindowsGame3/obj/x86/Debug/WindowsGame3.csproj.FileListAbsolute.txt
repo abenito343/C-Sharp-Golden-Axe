@@ -1,0 +1,1670 @@
+C:\Users\ET26\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+C:\Users\ET26\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\ET26\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\ET26\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+C:\Users\ET26\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ET26\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\ET26\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\ET26\Desktop\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+C:\Users\ET26\Desktop\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\ET26\Desktop\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\ET26\Desktop\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+C:\Users\ET26\Desktop\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ET26\Desktop\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\ET26\Desktop\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\ET26\Desktop\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano.xnb
+C:\Users\ET26\Desktop\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+C:\Users\ET26\Desktop\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+F:\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+F:\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano.xnb
+F:\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+F:\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+F:\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+F:\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+F:\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+C:\Users\paulucci\Desktop\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+C:\Users\paulucci\Desktop\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\paulucci\Desktop\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\paulucci\Desktop\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\paulucci\Desktop\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\paulucci\Desktop\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+C:\Users\paulucci\Desktop\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+F:\WindowsGame3(1)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+F:\WindowsGame3(1)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+F:\WindowsGame3(1)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+F:\WindowsGame3(1)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+F:\WindowsGame3(1)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+F:\WindowsGame3(1)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3(1)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+F:\WindowsGame3(1)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\WindowsGame3(1)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3(1)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+F:\WindowsGame3(1)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+C:\Users\ET26\Desktop\WindowsGame3(1)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+C:\Users\ET26\Desktop\WindowsGame3(1)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+C:\Users\ET26\Desktop\WindowsGame3(1)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+C:\Users\ET26\Desktop\WindowsGame3(1)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+C:\Users\ET26\Desktop\WindowsGame3(1)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+C:\Users\ET26\Desktop\WindowsGame3(1)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\ET26\Desktop\WindowsGame3(1)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\ET26\Desktop\WindowsGame3(1)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+C:\Users\ET26\Desktop\WindowsGame3(1)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ET26\Desktop\WindowsGame3(1)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\ET26\Desktop\WindowsGame3(1)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\ET26\Desktop\WindowsGame3(1)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+F:\WindowsGame3(2)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+F:\WindowsGame3(2)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\WindowsGame3(2)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3(2)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+F:\WindowsGame3(2)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+F:\WindowsGame3(2)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+F:\WindowsGame3(2)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+F:\WindowsGame3(2)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+F:\WindowsGame3(2)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+F:\WindowsGame3(2)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+F:\WindowsGame3(2)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3(2)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3(2)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(2)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(2)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(2)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(2)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(2)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\paulucci\Desktop\WindowsGame3(2)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3(2)\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\paulucci\Desktop\WindowsGame3(2)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\paulucci\Desktop\WindowsGame3(2)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\paulucci\Desktop\WindowsGame3(2)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3(2)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(2)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(2)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(2)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(2)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+C:\Users\ET26\Desktop\WindowsGame3(3)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+C:\Users\ET26\Desktop\WindowsGame3(3)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+C:\Users\ET26\Desktop\WindowsGame3(3)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+C:\Users\ET26\Desktop\WindowsGame3(3)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+C:\Users\ET26\Desktop\WindowsGame3(3)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+C:\Users\ET26\Desktop\WindowsGame3(3)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+C:\Users\ET26\Desktop\WindowsGame3(3)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+C:\Users\ET26\Desktop\WindowsGame3(3)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+C:\Users\ET26\Desktop\WindowsGame3(3)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+C:\Users\ET26\Desktop\WindowsGame3(3)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+C:\Users\ET26\Desktop\WindowsGame3(3)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\ET26\Desktop\WindowsGame3(3)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\ET26\Desktop\WindowsGame3(3)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+C:\Users\ET26\Desktop\WindowsGame3(3)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ET26\Desktop\WindowsGame3(3)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\ET26\Desktop\WindowsGame3(3)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3(4)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(4)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(4)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(4)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(4)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(4)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(4)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(4)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(4)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(4)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(4)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\paulucci\Desktop\WindowsGame3(4)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3(4)\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\paulucci\Desktop\WindowsGame3(4)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\paulucci\Desktop\WindowsGame3(4)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\paulucci\Desktop\WindowsGame3(4)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3(4)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(4)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+F:\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+F:\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+F:\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+F:\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+F:\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+F:\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+F:\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+F:\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+F:\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+F:\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+F:\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+F:\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+F:\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+F:\WindowsGame3(5)\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\WindowsGame3(5)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\WindowsGame3(5)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3(5)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\ET26\Desktop\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+C:\Users\ET26\Desktop\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+C:\Users\ET26\Desktop\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+C:\Users\ET26\Desktop\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+C:\Users\ET26\Desktop\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+C:\Users\ET26\Desktop\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+C:\Users\ET26\Desktop\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+C:\Users\ET26\Desktop\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+C:\Users\ET26\Desktop\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+C:\Users\ET26\Desktop\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+C:\Users\ET26\Desktop\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+C:\Users\ET26\Desktop\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+C:\Users\ET26\Desktop\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\ET26\Desktop\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\ET26\Desktop\WindowsGame3(5)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+C:\Users\ET26\Desktop\WindowsGame3(5)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ET26\Desktop\WindowsGame3(5)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\ET26\Desktop\WindowsGame3(5)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\ET26\Desktop\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+C:\Users\ET26\Desktop\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+C:\Users\ET26\Desktop\WindowsGame3(5)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+F:\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+F:\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+F:\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+F:\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+F:\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+F:\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+F:\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+F:\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+F:\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+F:\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+F:\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+F:\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+F:\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+F:\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+F:\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+F:\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+F:\WindowsGame3(6)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+F:\WindowsGame3(6)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\WindowsGame3(6)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3(6)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3(6)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3(7)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3(8)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2(2).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1)2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(9)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2.xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2(2).xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2.xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2.xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1)2.xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2(1).xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2.xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo1.xnb
+F:\WindowsGame3(10)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo12.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2(2).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1)2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo1.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo12.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon(2).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fire.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2(2).xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1)2.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2(1).xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo1.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo12.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2(1).xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon(2).xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fire.xnb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3(12)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2(2).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1)2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo1.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo12.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon(2).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fire.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fuego2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\explosion.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\bang.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\esqueleto\esqueleto.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2(2).xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1)2.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2(1).xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo1.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo12.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2(1).xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon(2).xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fire.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fuego2.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\explosion.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\bang.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\esqueleto\esqueleto.xnb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+F:\WindowsGame3(13)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2(2).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1)2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo1.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo12.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2(1).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon(2).xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fire.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fuego2.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\explosion.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\bang.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\esqueleto\esqueleto.xnb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\paulucci\Desktop\WindowsGame3(14)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2(2).xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1)2.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2(1).xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo1.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo12.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2(1).xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon(2).xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fire.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fuego2.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\explosion.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\bang.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\esqueleto\esqueleto.xnb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3(14)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2(2).xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1)2.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2(1).xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo1.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo12.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2(1).xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon(2).xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fire.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fuego2.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\explosion.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\bang.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\esqueleto\esqueleto.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score2.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage1.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar2.xnb
+C:\Users\paulucci\Desktop\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2(2).xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1)2.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2(1).xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo1.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo12.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2(1).xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon(2).xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fire.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fuego2.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\esqueleto\esqueleto.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score2.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar2.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage1.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\explosion.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\bang.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+E:\TP. LABORATORIO\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2(2).xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1)2.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2(1).xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo1.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo12.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2(1).xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon(2).xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fire.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fuego2.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\esqueleto\esqueleto.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score2.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar2.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage1.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\explosion.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\bang.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\SpriteFont1.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\georgiaFont.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2(2).xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1)2.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2(1).xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo1.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo12.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2(1).xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon(2).xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fire.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fuego2.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\esqueleto\esqueleto.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score2.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar2.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage1.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\explosion.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\bang.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\georgiaFont.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\Stage2.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage2.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo2.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\flecha-roja.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\warps.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian(1).xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar(1).xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo_inactivo.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_disparo.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk(2).xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD(1).xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack(2).xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\loading_game.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage2.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Ganastes.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\Stage2.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage2.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo2.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\flecha-roja.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\warps.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian(1).xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar(1).xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo_inactivo.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_disparo.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk(2).xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD(1).xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack(2).xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\loading_game.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage2.xnb
+G:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Ganastes.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_stage4.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_shoot.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_shoot1.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Fire2(1).xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Fire2.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\lvl_stage4.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\second_boss(2).xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\second_boss.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\S_Fire01.xnb
+F:\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage4.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2(2).xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1)2.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2(1).xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo1.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo12.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2(1).xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon(2).xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fire.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fuego2.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\esqueleto\esqueleto.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score2.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar2.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage1.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\explosion.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\bang.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\Stage2.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage2.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo2.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\flecha-roja.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\warps.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian(1).xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar(1).xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo_inactivo.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_disparo.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk(2).xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD(1).xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack(2).xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\loading_game.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage2.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Ganastes.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_stage4.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_shoot.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_shoot1.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Fire2(1).xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Fire2.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\lvl_stage4.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\second_boss(2).xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\second_boss.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\S_Fire01.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage4.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\georgiaFont.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2(1).xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondostage5.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba5.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage3.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder(1).xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\explosion_stage5.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\fuego2_stage5.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\green_fire2.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\jinete.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Skull.xnb
+C:\Users\marin\Downloads\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Stage5.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2(2).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1)2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo1.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo12.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon(2).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fire.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fuego2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\esqueleto\esqueleto.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage1.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\explosion.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\bang.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\Stage2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\flecha-roja.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\warps.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo_inactivo.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_disparo.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk(2).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack(2).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\loading_game.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Ganastes.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_stage4.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_shoot.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_shoot1.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Fire2(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Fire2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\lvl_stage4.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\second_boss(2).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\second_boss.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\S_Fire01.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage4.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondostage5.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba5.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage3.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\explosion_stage5.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\fuego2_stage5.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\green_fire2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\jinete.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Skull.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Stage5.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\georgiaFont.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\Ariel\Desktop\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2(2).xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1)2.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2(1).xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo1.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo12.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2(1).xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon(2).xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fire.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fuego2.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\esqueleto\esqueleto.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score2.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar2.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage1.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\explosion.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\bang.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\Stage2.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage2.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo2.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\flecha-roja.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\warps.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian(1).xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar(1).xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo_inactivo.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_disparo.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk(2).xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD(1).xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack(2).xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\loading_game.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage2.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Ganastes.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_stage4.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_shoot.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_shoot1.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Fire2(1).xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Fire2.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\lvl_stage4.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\second_boss(2).xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\second_boss.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\S_Fire01.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage4.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2(1).xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondostage5.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba5.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage3.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder(1).xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\explosion_stage5.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\fuego2_stage5.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\green_fire2.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\jinete.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Skull.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Stage5.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\georgiaFont.xnb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+F:\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2(2).xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1)2.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2(1).xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo1.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo12.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2(1).xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon(2).xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fire.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fuego2.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\esqueleto\esqueleto.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score2.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar2.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage1.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\explosion.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\bang.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\Stage2.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage2.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo2.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\flecha-roja.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\warps.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian(1).xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar(1).xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo_inactivo.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_disparo.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk(2).xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD(1).xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack(2).xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\loading_game.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage2.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Ganastes.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_stage4.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_shoot.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_shoot1.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Fire2(1).xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Fire2.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\lvl_stage4.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\second_boss(2).xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\second_boss.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\S_Fire01.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage4.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2(1).xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondostage5.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba5.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage3.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder(1).xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\explosion_stage5.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\fuego2_stage5.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\green_fire2.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\jinete.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Skull.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Stage5.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\georgiaFont.xnb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+F:\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe-World.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2(2).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1)2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo1.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo12.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon(2).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fire.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fuego2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\esqueleto\esqueleto.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage1.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\explosion.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\bang.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\Stage2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\flecha-roja.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\warps.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo_inactivo.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_disparo.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk(2).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack(2).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\loading_game.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Ganastes.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_stage4.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_shoot.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_shoot1.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Fire2(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Fire2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\lvl_stage4.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\second_boss(2).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\second_boss.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\S_Fire01.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage4.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondostage5.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba5.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage3.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\explosion_stage5.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\fuego2_stage5.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\green_fire2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\jinete.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Skull.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Stage5.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe-World.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\georgiaFont.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2(2).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1)2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo1.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo12.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon(2).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fire.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fuego2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\esqueleto\esqueleto.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage1.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\explosion.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\bang.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\Stage2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\flecha-roja.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\warps.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo_inactivo.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_disparo.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk(2).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack(2).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\loading_game.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Ganastes.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_stage4.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_shoot.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_shoot1.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Fire2(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Fire2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\lvl_stage4.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\second_boss(2).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\second_boss.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\S_Fire01.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage4.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondostage5.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba5.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage3.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\explosion_stage5.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\fuego2_stage5.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\green_fire2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\jinete.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Skull.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Stage5.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe-World.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\georgiaFont.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\Nueva carpeta\WindowsGame3(15) -asdasd123\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2(2).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1)2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo1.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo12.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon(2).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fire.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fuego2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\esqueleto\esqueleto.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\explosion.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\bang.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\Stage2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\flecha-roja.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\warps.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo_inactivo.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_disparo.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk(2).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack(2).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\loading_game.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Ganastes.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_stage4.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_shoot.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_shoot1.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Fire2(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Fire2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\lvl_stage4.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\second_boss(2).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\second_boss.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\S_Fire01.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage4.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondostage5.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba5.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage3.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\explosion_stage5.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\fuego2_stage5.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\green_fire2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\jinete.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Skull.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Stage5.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe-World.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage1.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondostage5(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder-attack.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Dragon2(1).xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Dragon2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\shoots_stage5.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\death.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\georgiaFont.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\death2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\juegoganado.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\gameover2.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondopuerta.xnb
+C:\Users\Ariel\Desktop\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage23.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2(2).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1)2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo1.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo12.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon(2).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fire.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fuego2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\esqueleto\esqueleto.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\explosion.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\bang.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\Stage2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\flecha-roja.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\warps.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo_inactivo.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_disparo.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk(2).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack(2).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\loading_game.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Ganastes.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_stage4.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_shoot.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_shoot1.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Fire2(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Fire2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\lvl_stage4.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\second_boss(2).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\second_boss.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\S_Fire01.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage4.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondostage5.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba5.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage3.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\explosion_stage5.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\fuego2_stage5.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\green_fire2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\jinete.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Skull.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Stage5.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe-World.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage1.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondostage5(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder-attack.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Dragon2(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Dragon2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\shoots_stage5.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\death.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\death2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\juegoganado.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\gameover2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondopuerta.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage23.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\georgiaFont.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\gameover.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\juego_ganado.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\death(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\death2(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\death_Player2(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\death_Player2(2).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2(2).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1)2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo1.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo12.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon(2).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fire.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fuego2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\esqueleto\esqueleto.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\explosion.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\bang.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\Stage2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\flecha-roja.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\warps.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo_inactivo.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_disparo.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk(2).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack(2).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\loading_game.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Ganastes.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_stage4.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_shoot.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_shoot1.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Fire2(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Fire2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\lvl_stage4.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\second_boss(2).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\second_boss.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\S_Fire01.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage4.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondostage5.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba5.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage3.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\explosion_stage5.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\fuego2_stage5.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\green_fire2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\jinete.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Skull.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Stage5.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe-World.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage1.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondostage5(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder-attack.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Dragon2(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Dragon2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\shoots_stage5.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\death.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\death2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\juegoganado.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\gameover2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondopuerta.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage23.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\gameover.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\juego_ganado.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\death(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\death2(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\death_Player2(1).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\death_Player2(2).xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\georgiaFont.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.csprojResolveAssemblyReference.cache
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi) - copia\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Sonidos\solocaminando.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Sonidos\11.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Sonidos\5.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Sonidos\8.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Sonidos\9.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Sonidos\13.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\gameover3.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\juego_ganado2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\juego_ganado2.xnb
+F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\gameover3.xnb

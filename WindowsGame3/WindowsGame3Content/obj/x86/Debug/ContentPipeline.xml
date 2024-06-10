@@ -1,0 +1,1210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Imagenes\GoldenAxe.png</Source>
+      <Name>Imagenes\GoldenAxe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe.xnb</Output>
+      <Time>2015-09-04T13:03:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\fondo_prueba.png</Source>
+      <Name>Imagenes\fondo_prueba</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba.xnb</Output>
+      <Time>2015-09-04T14:00:52-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\fondo_prueba2.png</Source>
+      <Name>Imagenes\fondo_prueba2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba2.xnb</Output>
+      <Time>2015-11-10T14:07:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enano_run.png</Source>
+      <Name>Imagenes\enano_run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 128, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run.xnb</Output>
+      <Time>2015-09-14T04:34:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enano_run(1).png</Source>
+      <Name>Imagenes\enano_run(1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 128, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1).xnb</Output>
+      <Time>2015-09-14T15:12:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enano_stand.png</Source>
+      <Name>Imagenes\enano_stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 128, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand.xnb</Output>
+      <Time>2015-09-17T18:02:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enano_attack.png</Source>
+      <Name>Imagenes\enano_attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 128, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack.xnb</Output>
+      <Time>2015-09-17T19:24:20-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enano_jump.png</Source>
+      <Name>Imagenes\enano_jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 128, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_jump.xnb</Output>
+      <Time>2015-09-22T14:19:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enano_down.png</Source>
+      <Name>Imagenes\enano_down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 128, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_down.xnb</Output>
+      <Time>2015-09-22T14:32:06-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enano_up.png</Source>
+      <Name>Imagenes\enano_up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 128, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_up.xnb</Output>
+      <Time>2015-09-22T15:36:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enano_stand(1).png</Source>
+      <Name>Imagenes\enano_stand(1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 128, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand(1).xnb</Output>
+      <Time>2015-09-23T21:29:08-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enano_attack(1).png</Source>
+      <Name>Imagenes\enano_attack(1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 128, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack(1).xnb</Output>
+      <Time>2015-09-23T21:46:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enano_hp.png</Source>
+      <Name>Imagenes\enano_hp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 128, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp.xnb</Output>
+      <Time>2015-09-24T13:19:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enano_hp2.png</Source>
+      <Name>Imagenes\enano_hp2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 128, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_hp2.xnb</Output>
+      <Time>2015-09-24T20:52:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\mana_bar.png</Source>
+      <Name>Imagenes\mana_bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\mana_bar.xnb</Output>
+      <Time>2015-09-28T21:55:20-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\system_menu3.png</Source>
+      <Name>Imagenes\system_menu3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu3.xnb</Output>
+      <Time>2015-09-28T21:58:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enano_stand2(2).png</Source>
+      <Name>Imagenes\enano_stand2(2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 128, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2(2).xnb</Output>
+      <Time>2015-10-06T03:51:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enano_stand2.png</Source>
+      <Name>Imagenes\enano_stand2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 128, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_stand2.xnb</Output>
+      <Time>2015-10-06T03:51:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enano_run2.png</Source>
+      <Name>Imagenes\enano_run2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 128, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2.xnb</Output>
+      <Time>2015-10-06T03:51:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enano_run(1)2.png</Source>
+      <Name>Imagenes\enano_run(1)2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 128, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run(1)2.xnb</Output>
+      <Time>2015-10-06T03:52:06-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enano_attack2(1).png</Source>
+      <Name>Imagenes\enano_attack2(1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 128, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2(1).xnb</Output>
+      <Time>2015-10-06T03:52:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enano_attack2.png</Source>
+      <Name>Imagenes\enano_attack2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 128, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_attack2.xnb</Output>
+      <Time>2015-10-06T03:52:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enemigo1.png</Source>
+      <Name>Imagenes\enemigo1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 255, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo1.xnb</Output>
+      <Time>2015-10-09T14:23:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enemigo12.png</Source>
+      <Name>Imagenes\enemigo12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 255, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo12.xnb</Output>
+      <Time>2015-10-09T14:24:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enemigo2.png</Source>
+      <Name>Imagenes\enemigo2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 255, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2.xnb</Output>
+      <Time>2015-10-12T13:42:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enemigo2(1).png</Source>
+      <Name>Imagenes\enemigo2(1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 255, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigo2(1).xnb</Output>
+      <Time>2015-10-12T13:43:06-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\dragon.png</Source>
+      <Name>Imagenes\dragon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon.xnb</Output>
+      <Time>2015-10-13T20:26:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\dragon(2).png</Source>
+      <Name>Imagenes\dragon(2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\dragon(2).xnb</Output>
+      <Time>2015-10-13T20:26:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\fire.png</Source>
+      <Name>Imagenes\fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fire.xnb</Output>
+      <Time>2015-10-13T20:35:20-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\fuego2.png</Source>
+      <Name>Imagenes\fuego2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 255, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fuego2.xnb</Output>
+      <Time>2015-10-19T18:02:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\esqueleto\esqueleto.png</Source>
+      <Name>Imagenes\esqueleto\esqueleto</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\esqueleto\esqueleto.xnb</Output>
+      <Time>2015-10-20T17:14:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Score\score.png</Source>
+      <Name>Imagenes\Score\score</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score.xnb</Output>
+      <Time>2015-10-23T01:42:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Score\score2.png</Source>
+      <Name>Imagenes\Score\score2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\score2.xnb</Output>
+      <Time>2015-10-23T01:42:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\health_bar.png</Source>
+      <Name>Imagenes\health_bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar.xnb</Output>
+      <Time>2015-10-25T03:38:02-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\health_bar2.png</Source>
+      <Name>Imagenes\health_bar2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\health_bar2.xnb</Output>
+      <Time>2015-10-25T03:46:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\system_menu.png</Source>
+      <Name>Imagenes\system_menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\system_menu.xnb</Output>
+      <Time>2015-10-25T19:11:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\explosion.png</Source>
+      <Name>Imagenes\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\explosion.xnb</Output>
+      <Time>2015-10-26T04:46:12-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\bang.png</Source>
+      <Name>Imagenes\bang</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">155, 10, 20, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\bang.xnb</Output>
+      <Time>2015-10-26T04:48:12-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Score\Stage2.png</Source>
+      <Name>Imagenes\Score\Stage2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Score\Stage2.xnb</Output>
+      <Time>2015-11-08T16:48:12-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\fondo2.png</Source>
+      <Name>Imagenes\fondo2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo2.xnb</Output>
+      <Time>2015-11-08T17:06:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\flecha-roja.png</Source>
+      <Name>Imagenes\flecha-roja</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\flecha-roja.xnb</Output>
+      <Time>2015-11-08T18:25:36-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\warps.png</Source>
+      <Name>Imagenes\warps</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\warps.xnb</Output>
+      <Time>2015-11-09T20:44:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Guardian\Guardian(1).png</Source>
+      <Name>Imagenes\Guardian\Guardian(1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian(1).xnb</Output>
+      <Time>2015-11-09T21:38:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Guardian\Guardian.png</Source>
+      <Name>Imagenes\Guardian\Guardian</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian.xnb</Output>
+      <Time>2015-11-09T21:39:06-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Guardian\Guardian_atacar(1).png</Source>
+      <Name>Imagenes\Guardian\Guardian_atacar(1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar(1).xnb</Output>
+      <Time>2015-11-10T18:32:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Guardian\Guardian_atacar.png</Source>
+      <Name>Imagenes\Guardian\Guardian_atacar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Guardian\Guardian_atacar.xnb</Output>
+      <Time>2015-11-10T18:32:40-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Mago\domo.png</Source>
+      <Name>Imagenes\Mago\domo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo.xnb</Output>
+      <Time>2015-11-10T20:49:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Mago\domo_inactivo.png</Source>
+      <Name>Imagenes\Mago\domo_inactivo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\domo_inactivo.xnb</Output>
+      <Time>2015-11-10T22:03:46-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Mago\mago_disparo.png</Source>
+      <Name>Imagenes\Mago\mago_disparo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_disparo.xnb</Output>
+      <Time>2015-11-10T21:04:36-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Mago\mago_walk(2).png</Source>
+      <Name>Imagenes\Mago\mago_walk(2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk(2).xnb</Output>
+      <Time>2015-11-09T17:11:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Mago\mago_walk.png</Source>
+      <Name>Imagenes\Mago\mago_walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Mago\mago_walk.xnb</Output>
+      <Time>2015-11-09T17:11:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enemigoD(1).png</Source>
+      <Name>Imagenes\enemigoD(1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD(1).xnb</Output>
+      <Time>2015-10-29T13:55:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enemigoD.png</Source>
+      <Name>Imagenes\enemigoD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD.xnb</Output>
+      <Time>2015-10-29T13:55:40-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enemigoD_attack(2).png</Source>
+      <Name>Imagenes\enemigoD_attack(2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack(2).xnb</Output>
+      <Time>2015-11-06T13:25:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enemigoD_attack.png</Source>
+      <Name>Imagenes\enemigoD_attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enemigoD_attack.xnb</Output>
+      <Time>2015-11-03T17:14:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\loading_game.png</Source>
+      <Name>Imagenes\loading_game</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\loading_game.xnb</Output>
+      <Time>2015-11-09T15:36:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\fondo_stage2.png</Source>
+      <Name>Imagenes\fondo_stage2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage2.xnb</Output>
+      <Time>2015-11-09T19:50:34-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Ganastes.png</Source>
+      <Name>Imagenes\Ganastes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Ganastes.xnb</Output>
+      <Time>2015-11-16T01:48:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Boss2\Dragon_stage4.png</Source>
+      <Name>Imagenes\Boss2\Dragon_stage4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_stage4.xnb</Output>
+      <Time>2015-11-16T23:11:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Boss2\Dragon_shoot.png</Source>
+      <Name>Imagenes\Boss2\Dragon_shoot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_shoot.xnb</Output>
+      <Time>2015-11-16T20:55:06-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Boss2\Dragon_shoot1.png</Source>
+      <Name>Imagenes\Boss2\Dragon_shoot1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">161, 45, 31, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Dragon_shoot1.xnb</Output>
+      <Time>2015-11-16T21:21:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Boss2\Fire2(1).png</Source>
+      <Name>Imagenes\Boss2\Fire2(1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Fire2(1).xnb</Output>
+      <Time>2015-11-17T22:52:34-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Boss2\Fire2.png</Source>
+      <Name>Imagenes\Boss2\Fire2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\Fire2.xnb</Output>
+      <Time>2015-11-17T22:48:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Boss2\lvl_stage4.png</Source>
+      <Name>Imagenes\Boss2\lvl_stage4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\lvl_stage4.xnb</Output>
+      <Time>2015-11-16T19:01:06-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Boss2\second_boss(2).png</Source>
+      <Name>Imagenes\Boss2\second_boss(2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\second_boss(2).xnb</Output>
+      <Time>2015-11-16T18:30:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Boss2\second_boss.png</Source>
+      <Name>Imagenes\Boss2\second_boss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\second_boss.xnb</Output>
+      <Time>2015-11-16T18:22:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Boss2\S_Fire01.png</Source>
+      <Name>Imagenes\Boss2\S_Fire01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss2\S_Fire01.xnb</Output>
+      <Time>2015-11-16T23:55:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\fondo_stage4.png</Source>
+      <Name>Imagenes\fondo_stage4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_stage4.xnb</Output>
+      <Time>2015-11-16T17:36:36-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\enano_run2(1).png</Source>
+      <Name>Imagenes\enano_run2(1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\enano_run2(1).xnb</Output>
+      <Time>2015-11-19T21:46:36-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\fondostage5.png</Source>
+      <Name>Imagenes\fondostage5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondostage5.xnb</Output>
+      <Time>2015-11-19T20:52:42-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\fondo_prueba5.png</Source>
+      <Name>Imagenes\fondo_prueba5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondo_prueba5.xnb</Output>
+      <Time>2015-11-13T14:01:34-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Stage3.png</Source>
+      <Name>Imagenes\Stage3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">3, 2, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage3.xnb</Output>
+      <Time>2015-11-09T16:55:50-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Boss3\death-adder(1).png</Source>
+      <Name>Imagenes\Boss3\death-adder(1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">56, 76, 77, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder(1).xnb</Output>
+      <Time>2015-11-23T08:38:36-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Boss3\death-adder.png</Source>
+      <Name>Imagenes\Boss3\death-adder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">56, 76, 77, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder.xnb</Output>
+      <Time>2015-11-23T08:38:36-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Boss3\explosion_stage5.png</Source>
+      <Name>Imagenes\Boss3\explosion_stage5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\explosion_stage5.xnb</Output>
+      <Time>2015-11-23T08:38:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Boss3\fuego2_stage5.png</Source>
+      <Name>Imagenes\Boss3\fuego2_stage5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\fuego2_stage5.xnb</Output>
+      <Time>2015-11-23T08:38:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Boss3\green_fire2.png</Source>
+      <Name>Imagenes\Boss3\green_fire2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\green_fire2.xnb</Output>
+      <Time>2015-11-23T08:38:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Boss3\jinete.png</Source>
+      <Name>Imagenes\Boss3\jinete</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\jinete.xnb</Output>
+      <Time>2015-11-23T08:38:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Boss3\Skull.png</Source>
+      <Name>Imagenes\Boss3\Skull</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Skull.xnb</Output>
+      <Time>2015-11-23T08:38:40-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Boss3\Stage5.png</Source>
+      <Name>Imagenes\Boss3\Stage5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Stage5.xnb</Output>
+      <Time>2015-11-23T08:38:40-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\GoldenAxe-World.png</Source>
+      <Name>Imagenes\GoldenAxe-World</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\GoldenAxe-World.xnb</Output>
+      <Time>2015-11-21T20:26:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Stage1.png</Source>
+      <Name>Imagenes\Stage1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">3, 2, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage1.xnb</Output>
+      <Time>2015-11-09T17:23:24-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\fondostage5(1).png</Source>
+      <Name>Imagenes\fondostage5(1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondostage5(1).xnb</Output>
+      <Time>2015-11-23T08:38:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Boss3\death-adder-attack.png</Source>
+      <Name>Imagenes\Boss3\death-adder-attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">56, 76, 77, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\death-adder-attack.xnb</Output>
+      <Time>2015-11-23T08:38:36-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Boss3\Dragon2(1).png</Source>
+      <Name>Imagenes\Boss3\Dragon2(1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Dragon2(1).xnb</Output>
+      <Time>2015-11-23T08:38:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Boss3\Dragon2.png</Source>
+      <Name>Imagenes\Boss3\Dragon2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\Dragon2.xnb</Output>
+      <Time>2015-11-23T08:38:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Boss3\shoots_stage5.png</Source>
+      <Name>Imagenes\Boss3\shoots_stage5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Boss3\shoots_stage5.xnb</Output>
+      <Time>2015-11-23T08:38:40-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\death.png</Source>
+      <Name>Imagenes\death</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 255, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\death.xnb</Output>
+      <Time>2015-11-23T08:35:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\death2.png</Source>
+      <Name>Imagenes\death2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 128, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\death2.xnb</Output>
+      <Time>2015-11-23T18:46:50-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\juegoganado.jpg</Source>
+      <Name>Imagenes\juegoganado</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\juegoganado.xnb</Output>
+      <Time>2015-11-24T17:00:08-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\gameover2.jpg</Source>
+      <Name>Imagenes\gameover2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\gameover2.xnb</Output>
+      <Time>2015-11-24T18:10:20-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\fondopuerta.png</Source>
+      <Name>Imagenes\fondopuerta</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\fondopuerta.xnb</Output>
+      <Time>2015-11-24T19:56:42-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Stage23.png</Source>
+      <Name>Imagenes\Stage23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\Stage23.xnb</Output>
+      <Time>2015-11-23T08:37:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\gameover.png</Source>
+      <Name>Imagenes\gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\gameover.xnb</Output>
+      <Time>2015-12-01T20:25:10-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\juego_ganado.png</Source>
+      <Name>Imagenes\juego_ganado</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\juego_ganado.xnb</Output>
+      <Time>2015-11-26T14:02:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\death(1).png</Source>
+      <Name>Imagenes\death(1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\death(1).xnb</Output>
+      <Time>2015-11-26T14:06:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\death2(1).png</Source>
+      <Name>Imagenes\death2(1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 128, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\death2(1).xnb</Output>
+      <Time>2015-11-26T14:16:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\death_Player2(1).png</Source>
+      <Name>Imagenes\death_Player2(1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 128, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\death_Player2(1).xnb</Output>
+      <Time>2015-11-26T14:22:40-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\death_Player2(2).png</Source>
+      <Name>Imagenes\death_Player2(2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 128, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\death_Player2(2).xnb</Output>
+      <Time>2015-11-26T14:21:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2015-10-31T17:27:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>georgiaFont.spritefont</Source>
+      <Name>georgiaFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\georgiaFont.xnb</Output>
+      <Time>2015-10-29T14:43:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\solocaminando.Mp3</Source>
+      <Name>Sonidos\solocaminando</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Sonidos\solocaminando.xnb</Output>
+      <Time>2002-09-20T18:12:10-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\11.mp3</Source>
+      <Name>Sonidos\11</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Sonidos\11.xnb</Output>
+      <Time>2013-10-16T16:52:34-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\5.mp3</Source>
+      <Name>Sonidos\5</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Sonidos\5.xnb</Output>
+      <Time>2012-09-29T14:38:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\8.mp3</Source>
+      <Name>Sonidos\8</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Sonidos\8.xnb</Output>
+      <Time>2013-09-02T19:31:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\9.mp3</Source>
+      <Name>Sonidos\9</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Sonidos\9.xnb</Output>
+      <Time>2013-09-02T19:26:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\13.mp3</Source>
+      <Name>Sonidos\13</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Sonidos\13.xnb</Output>
+      <Time>2013-09-16T12:05:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>gameover3.png</Source>
+      <Name>gameover3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\gameover3.xnb</Output>
+      <Time>2015-12-01T23:02:08-03:00</Time>
+    </Item>
+    <Item>
+      <Source>juego_ganado2.png</Source>
+      <Name>juego_ganado2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\juego_ganado2.xnb</Output>
+      <Time>2015-12-01T23:02:08-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\juego_ganado2.png</Source>
+      <Name>Imagenes\juego_ganado2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\juego_ganado2.xnb</Output>
+      <Time>2015-12-01T22:59:12-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\gameover3.png</Source>
+      <Name>Imagenes\gameover3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Imagenes\gameover3.xnb</Output>
+      <Time>2015-12-01T22:55:54-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3Content\</RootDirectory>
+      <LoggerRootDirectory>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\Nueva carpeta (2)\WindowsGame3(TöBéNi)\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-11-12T17:32:27.2496976-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
